@@ -95,6 +95,7 @@
 
 ## Index
 
+* [R2Kode](#r2kode)
 * [Animals](#animals)
 * [Anime](#anime)
 * [Anti-Malware](#anti-malware)
@@ -146,6 +147,20 @@
 * [Vehicle](#vehicle)
 * [Video](#video)
 * [Weather](#weather)
+
+### R2Kode
+API | Description | Auth | HTTPS | CORS |
+|---|---|---|---|---|
+| [Fake Store Api](https://fakestoreapi.com/docs) | Fake Store API | No | Yes | `Unknown` |
+| [Faker API](https://fakerapi.it) | Faker API it's a collection of completely free APIs | No | Yes | `Unknown` |
+|[IMDb API](https://imdb-api.com/api) | The IMDb-API is a web service for receiving movie, serial and cast information | Yes | Yes | `Unknown` |
+|[OMDb API](https://www.omdbapi.com/) | The Open Movie Database | Yes | Yes | `Unknown` |
+|[The Movie Database (TMDB) API](https://developers.themoviedb.org/3/getting-started/introduction) | The Movie Database (TMDB) API | Yes | `Unknown` | `Unknown` |
+|[Rest Countries](https://restcountries.com/) | Get information about countries via a RESTful API | No | Yes | `Unknown` |
+|[Sport radar](https://developer.sportradar.com/docs/read/Home) | Sport radar | Yes | `Unknown` | `Unknown` |
+|[API-Sports](https://api-sports.io) | https://api-sports.io/# | `Unknown` | `Unknown` | `Unknown` |
+|[]() |  | No | Yes | `Unknown` |
+
 
 ### Animals
 API | Description | Auth | HTTPS | CORS |
