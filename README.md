@@ -158,7 +158,7 @@ API | Description | Auth | HTTPS | CORS |
 |[The Movie Database (TMDB) API](https://developers.themoviedb.org/3/getting-started/introduction) | The Movie Database (TMDB) API | Yes | `Unknown` | `Unknown` |
 |[Rest Countries](https://restcountries.com/) | Get information about countries via a RESTful API | No | Yes | `Unknown` |
 |[Sport radar](https://developer.sportradar.com/docs/read/Home) | Sport radar | Yes | `Unknown` | `Unknown` |
-|[API-Sports](https://api-sports.io) | https://api-sports.io/# | `Unknown` | `Unknown` | `Unknown` |
+|[API-Sports](https://api-sports.io) | API-Sports | `Unknown` | `Unknown` | `Unknown` |
 |[]() |  | No | Yes | `Unknown` |
 
 
