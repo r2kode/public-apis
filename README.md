@@ -151,6 +151,8 @@
 ### R2Kode
 API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
+|[https://requestbin.com](RequestBin) | A modern request bin to inspect any event | No | Yes | `Unknown` |
+|---|---|---|---|---|
 | [Fake Store Api](https://fakestoreapi.com/docs) | Fake Store API | No | Yes | `Unknown` |
 | [Faker API](https://fakerapi.it) | Faker API it's a collection of completely free APIs | No | Yes | `Unknown` |
 |[IMDb API](https://imdb-api.com/api) | The IMDb-API is a web service for receiving movie, serial and cast information | Yes | Yes | `Unknown` |
@@ -159,7 +161,6 @@ API | Description | Auth | HTTPS | CORS |
 |[Rest Countries](https://restcountries.com/) | Get information about countries via a RESTful API | No | Yes | `Unknown` |
 |[Sport radar](https://developer.sportradar.com/docs/read/Home) | Sport radar | Yes | `Unknown` | `Unknown` |
 |[API-Sports](https://api-sports.io) | API-Sports | `Unknown` | `Unknown` | `Unknown` |
-|[]() |  | No | Yes | `Unknown` |
 
 
 ### Animals
